@@ -1,0 +1,11 @@
+{
+  "name": "solidity-abi-decoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@bitdeep:bitdeep/solidity-abi-decoder.git",
+  "author": "wendel <wendel@example.org>",
+  "license": "MIT",
+  "dependencies": {
+    "canoe-solidity": "^0.1.0"
+  }
+}
